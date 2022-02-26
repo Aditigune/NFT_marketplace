@@ -3,8 +3,8 @@
 export const nftmarketaddress = "0xCf7Ed3AccA5a467e9e704C703E8D87F634fB0Fc9"
 */
 //for ploygon mumbai old project for account 1
-export const nftaddress = "0x7d9d07BDF818693428Ea0084157E430bcC913059";
-export const nftmarketaddress = "0x46c372D744B58F74aB90C5DddBF4e7047aE43b32";
+export const nftaddress = "";
+export const nftmarketaddress = "";
 
 // new project test.
 //export const nftaddress = "0x2FfEa410B53DE84d04c3B55e52a0d53fcFD0146e";
